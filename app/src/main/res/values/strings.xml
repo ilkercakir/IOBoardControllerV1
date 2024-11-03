@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IOBoardControllerV1</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="remotemenuitem1">Change Password</string>
+    <string name="remotemenuitem2">Refresh</string>
+    <string name="remotemenuitem3">Login</string>
+</resources>
